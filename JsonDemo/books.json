@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Book Name 1",
+    "author": "Book Author 1"
+  },
+  {
+    "id": "2",
+    "name": "Book Name 2",
+    "author": "Book Author 2"
+  },
+  {
+    "id": "3",
+    "name": "Book Name 3",
+    "author": "Book Author 3"
+  }
+]

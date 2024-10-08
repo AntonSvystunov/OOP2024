@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoursesManagement", "CoursesManagement\CoursesManagement.csproj", "{A5B61F32-FFDE-4136-8CE2-F4A71F3889B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoursesManagement", "CoursesManagement\CoursesManagement.csproj", "{A5B61F32-FFDE-4136-8CE2-F4A71F3889B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoursesManagement.Domain", "CoursesManagement.Domain\CoursesManagement.Domain.csproj", "{0F43C9D4-76A5-4CC5-BA4D-6E37ECAF3181}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoursesManagement.Domain", "CoursesManagement.Domain\CoursesManagement.Domain.csproj", "{0F43C9D4-76A5-4CC5-BA4D-6E37ECAF3181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlDemo", "XmlDemo\XmlDemo.csproj", "{92096715-63DF-4AE1-8766-66DEBC8A24DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonDemo", "JsonDemo\JsonDemo.csproj", "{D30CAE56-AF96-4C8A-9114-96CDBBFDC60A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{0F43C9D4-76A5-4CC5-BA4D-6E37ECAF3181}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F43C9D4-76A5-4CC5-BA4D-6E37ECAF3181}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F43C9D4-76A5-4CC5-BA4D-6E37ECAF3181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92096715-63DF-4AE1-8766-66DEBC8A24DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92096715-63DF-4AE1-8766-66DEBC8A24DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92096715-63DF-4AE1-8766-66DEBC8A24DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92096715-63DF-4AE1-8766-66DEBC8A24DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D30CAE56-AF96-4C8A-9114-96CDBBFDC60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30CAE56-AF96-4C8A-9114-96CDBBFDC60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D30CAE56-AF96-4C8A-9114-96CDBBFDC60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D30CAE56-AF96-4C8A-9114-96CDBBFDC60A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+  <Book Id="1">
+    <Name>Foo</Name>
+    <AuthorName>Foo Bar</AuthorName>
+  </Book>
+  <Book Id="2">
+    <Name>Foo</Name>
+    <AuthorName>Foo Bar</AuthorName>
+  </Book>
+  <Book Id="3">
+    <Name>Foo</Name>
+    <AuthorName>Foo Bar</AuthorName>
+  </Book>
+</Books>
